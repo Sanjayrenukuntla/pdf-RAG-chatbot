@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+
+# Secret API keys
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# ChromaDB local database
+chroma_db/
+
+# Streamlit configuration secrets
+.streamlit/secrets.toml
